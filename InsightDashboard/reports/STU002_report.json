@@ -1,0 +1,127 @@
+{
+  "student_id": "STU002",
+  "generated_at": "2026-02-02T14:42:11.360503",
+  "performance_summary": {
+    "student_id": "STU002",
+    "total_assessments": 25,
+    "average_score": 69.2968,
+    "median_score": 68.43,
+    "score_std": 6.063490963683105,
+    "best_subject": "Computer Science",
+    "weakest_subject": "Mathematics",
+    "total_study_time": "2741",
+    "completion_rate": 82.6923076923077,
+    "improvement_trend": "Stable"
+  },
+  "weak_topics": [
+    {
+      "subject": "Mathematics",
+      "topic": "Statistics",
+      "avg_score": 57.99,
+      "attempts": 1
+    },
+    {
+      "subject": "Science",
+      "topic": "Chemistry",
+      "avg_score": 62.01,
+      "attempts": 1
+    },
+    {
+      "subject": "History",
+      "topic": "Modern History",
+      "avg_score": 63.66,
+      "attempts": 2
+    },
+    {
+      "subject": "Mathematics",
+      "topic": "Calculus",
+      "avg_score": 64.43,
+      "attempts": 1
+    },
+    {
+      "subject": "Computer Science",
+      "topic": "Data Structures",
+      "avg_score": 65.48,
+      "attempts": 1
+    },
+    {
+      "subject": "Mathematics",
+      "topic": "Trigonometry",
+      "avg_score": 66.795,
+      "attempts": 2
+    },
+    {
+      "subject": "Science",
+      "topic": "Lab Skills",
+      "avg_score": 67.47,
+      "attempts": 2
+    },
+    {
+      "subject": "English",
+      "topic": "Writing",
+      "avg_score": 69.44399999999999,
+      "attempts": 5
+    }
+  ],
+  "strong_topics": [],
+  "subject_predictions": {
+    "Science": {
+      "prediction": 69.98,
+      "confidence": "Medium",
+      "recent_trend": "Slight Decline"
+    },
+    "Mathematics": {
+      "prediction": 63.51,
+      "confidence": "High",
+      "recent_trend": "Insufficient Data"
+    },
+    "English": {
+      "prediction": 72.12,
+      "confidence": "High",
+      "recent_trend": "Strong Improvement"
+    },
+    "History": {
+      "prediction": 68.4,
+      "confidence": "Medium",
+      "recent_trend": "Needs Attention"
+    },
+    "Computer Science": {
+      "prediction": null,
+      "confidence": "Low",
+      "message": "Insufficient data"
+    }
+  },
+  "recommendations": [
+    {
+      "priority": "High",
+      "type": "Skill Gap",
+      "message": "Focus on improving: Statistics, Chemistry, Modern History",
+      "details": [
+        {
+          "subject": "Mathematics",
+          "topic": "Statistics",
+          "avg_score": 57.99,
+          "attempts": 1
+        },
+        {
+          "subject": "Science",
+          "topic": "Chemistry",
+          "avg_score": 62.01,
+          "attempts": 1
+        },
+        {
+          "subject": "History",
+          "topic": "Modern History",
+          "avg_score": 63.66,
+          "attempts": 2
+        }
+      ]
+    }
+  ],
+  "visualizations": {
+    "progress": "visualizations\\STU002_progress.png",
+    "subjects": "visualizations\\STU002_subjects.png",
+    "heatmap": "visualizations\\STU002_heatmap.png",
+    "study_patterns": "visualizations\\STU002_study_patterns.png"
+  }
+}

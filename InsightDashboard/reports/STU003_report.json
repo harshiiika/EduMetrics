@@ -1,0 +1,92 @@
+{
+  "student_id": "STU003",
+  "generated_at": "2026-02-02T14:42:14.347888",
+  "performance_summary": {
+    "student_id": "STU003",
+    "total_assessments": 26,
+    "average_score": 77.39961538461539,
+    "median_score": 76.655,
+    "score_std": 5.4238034483334525,
+    "best_subject": "Computer Science",
+    "weakest_subject": "English",
+    "total_study_time": "4293",
+    "completion_rate": 93.07692307692308,
+    "improvement_trend": "Stable"
+  },
+  "weak_topics": [
+    {
+      "subject": "English",
+      "topic": "Vocabulary",
+      "avg_score": 65.38,
+      "attempts": 1
+    },
+    {
+      "subject": "Science",
+      "topic": "Biology",
+      "avg_score": 68.78,
+      "attempts": 1
+    }
+  ],
+  "strong_topics": [
+    {
+      "subject": "Mathematics",
+      "topic": "Calculus",
+      "avg_score": 86.0,
+      "attempts": 1
+    }
+  ],
+  "subject_predictions": {
+    "Computer Science": {
+      "prediction": 81.33,
+      "confidence": "High",
+      "recent_trend": "Strong Improvement"
+    },
+    "Science": {
+      "prediction": 76.61,
+      "confidence": "Medium",
+      "recent_trend": "Insufficient Data"
+    },
+    "English": {
+      "prediction": 73.52,
+      "confidence": "Medium",
+      "recent_trend": "Needs Attention"
+    },
+    "Mathematics": {
+      "prediction": 78.76,
+      "confidence": "High",
+      "recent_trend": "Strong Improvement"
+    },
+    "History": {
+      "prediction": 77.91,
+      "confidence": "High",
+      "recent_trend": "Strong Improvement"
+    }
+  },
+  "recommendations": [
+    {
+      "priority": "High",
+      "type": "Skill Gap",
+      "message": "Focus on improving: Vocabulary, Biology",
+      "details": [
+        {
+          "subject": "English",
+          "topic": "Vocabulary",
+          "avg_score": 65.38,
+          "attempts": 1
+        },
+        {
+          "subject": "Science",
+          "topic": "Biology",
+          "avg_score": 68.78,
+          "attempts": 1
+        }
+      ]
+    }
+  ],
+  "visualizations": {
+    "progress": "visualizations\\STU003_progress.png",
+    "subjects": "visualizations\\STU003_subjects.png",
+    "heatmap": "visualizations\\STU003_heatmap.png",
+    "study_patterns": "visualizations\\STU003_study_patterns.png"
+  }
+}

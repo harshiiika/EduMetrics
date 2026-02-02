@@ -1,0 +1,902 @@
+[
+  {
+    "student_id":"STU001",
+    "name":"Student 1",
+    "grade_level":11,
+    "base_ability":77.4507122952,
+    "learning_rate":1.5979909127,
+    "engagement_level":0.7190609389,
+    "study_hours_per_week":23
+  },
+  {
+    "student_id":"STU002",
+    "name":"Student 2",
+    "grade_level":9,
+    "base_ability":67.9260354824,
+    "learning_rate":0.6499623737,
+    "engagement_level":0.6214742244,
+    "study_hours_per_week":8
+  },
+  {
+    "student_id":"STU003",
+    "name":"Student 3",
+    "grade_level":10,
+    "base_ability":75.888696256,
+    "learning_rate":0.5846173685,
+    "engagement_level":0.8053991406,
+    "study_hours_per_week":10
+  },
+  {
+    "student_id":"STU004",
+    "name":"Student 4",
+    "grade_level":9,
+    "base_ability":56.062229996,
+    "learning_rate":0.5011681488,
+    "engagement_level":0.9945480915,
+    "study_hours_per_week":16
+  },
+  {
+    "student_id":"STU005",
+    "name":"Student 5",
+    "grade_level":12,
+    "base_ability":70.3333273992,
+    "learning_rate":1.0997914576,
+    "engagement_level":0.3326659642,
+    "study_hours_per_week":20
+  },
+  {
+    "student_id":"STU006",
+    "name":"Student 6",
+    "grade_level":10,
+    "base_ability":63.5831062959,
+    "learning_rate":0.8491570106,
+    "engagement_level":0.3634245042,
+    "study_hours_per_week":23
+  },
+  {
+    "student_id":"STU007",
+    "name":"Student 7",
+    "grade_level":11,
+    "base_ability":72.1369690358,
+    "learning_rate":1.2001443399,
+    "engagement_level":0.9019582847,
+    "study_hours_per_week":25
+  },
+  {
+    "student_id":"STU008",
+    "name":"Student 8",
+    "grade_level":9,
+    "base_ability":69.4802172366,
+    "learning_rate":1.175748878,
+    "engagement_level":0.3092854728,
+    "study_hours_per_week":18
+  },
+  {
+    "student_id":"STU009",
+    "name":"Student 9",
+    "grade_level":11,
+    "base_ability":60.9961922484,
+    "learning_rate":0.646508171,
+    "engagement_level":0.7789631186,
+    "study_hours_per_week":11
+  },
+  {
+    "student_id":"STU010",
+    "name":"Student 10",
+    "grade_level":11,
+    "base_ability":84.2115973157,
+    "learning_rate":1.4149949867,
+    "engagement_level":0.8832364382,
+    "study_hours_per_week":18
+  },
+  {
+    "student_id":"STU011",
+    "name":"Student 11",
+    "grade_level":10,
+    "base_ability":52.1026265577,
+    "learning_rate":1.6330421155,
+    "engagement_level":0.5976091121,
+    "study_hours_per_week":14
+  },
+  {
+    "student_id":"STU012",
+    "name":"Student 12",
+    "grade_level":10,
+    "base_ability":63.8642214741,
+    "learning_rate":1.3515504917,
+    "engagement_level":0.3219193047,
+    "study_hours_per_week":16
+  },
+  {
+    "student_id":"STU013",
+    "name":"Student 13",
+    "grade_level":9,
+    "base_ability":81.0769986999,
+    "learning_rate":0.6327387531,
+    "engagement_level":0.4371880037,
+    "study_hours_per_week":12
+  },
+  {
+    "student_id":"STU014",
+    "name":"Student 14",
+    "grade_level":11,
+    "base_ability":72.5705242178,
+    "learning_rate":1.766800773,
+    "engagement_level":0.8231240771,
+    "study_hours_per_week":25
+  },
+  {
+    "student_id":"STU015",
+    "name":"Student 15",
+    "grade_level":9,
+    "base_ability":76.9122445022,
+    "learning_rate":1.4105513715,
+    "engagement_level":0.4931994274,
+    "study_hours_per_week":19
+  },
+  {
+    "student_id":"STU016",
+    "name":"Student 16",
+    "grade_level":9,
+    "base_ability":71.2888520745,
+    "learning_rate":0.7479004086,
+    "engagement_level":0.3109454847,
+    "study_hours_per_week":28
+  },
+  {
+    "student_id":"STU017",
+    "name":"Student 17",
+    "grade_level":12,
+    "base_ability":46.5539980812,
+    "learning_rate":0.5211197341,
+    "engagement_level":0.4391896829,
+    "study_hours_per_week":7
+  },
+  {
+    "student_id":"STU018",
+    "name":"Student 18",
+    "grade_level":10,
+    "base_ability":58.0655351179,
+    "learning_rate":1.6852633108,
+    "engagement_level":0.7241719823,
+    "study_hours_per_week":11
+  },
+  {
+    "student_id":"STU019",
+    "name":"Student 19",
+    "grade_level":9,
+    "base_ability":79.9342677043,
+    "learning_rate":1.7750578667,
+    "engagement_level":0.6146154719,
+    "study_hours_per_week":20
+  },
+  {
+    "student_id":"STU020",
+    "name":"Student 20",
+    "grade_level":9,
+    "base_ability":73.6168324388,
+    "learning_rate":1.0562273783,
+    "engagement_level":0.7681888769,
+    "study_hours_per_week":7
+  },
+  {
+    "student_id":"STU021",
+    "name":"Student 21",
+    "grade_level":11,
+    "base_ability":46.3876706958,
+    "learning_rate":1.3418651388,
+    "engagement_level":0.5680488123,
+    "study_hours_per_week":18
+  },
+  {
+    "student_id":"STU022",
+    "name":"Student 22",
+    "grade_level":11,
+    "base_ability":79.5692941484,
+    "learning_rate":1.7733707364,
+    "engagement_level":0.8052106648,
+    "study_hours_per_week":18
+  },
+  {
+    "student_id":"STU023",
+    "name":"Student 23",
+    "grade_level":9,
+    "base_ability":120.5844438044,
+    "learning_rate":1.1413115275,
+    "engagement_level":0.3177933887,
+    "study_hours_per_week":23
+  },
+  {
+    "student_id":"STU024",
+    "name":"Student 24",
+    "grade_level":12,
+    "base_ability":56.194137924,
+    "learning_rate":0.5471437785,
+    "engagement_level":0.7454872879,
+    "study_hours_per_week":8
+  },
+  {
+    "student_id":"STU025",
+    "name":"Student 25",
+    "grade_level":12,
+    "base_ability":66.7049216824,
+    "learning_rate":1.1155743846,
+    "engagement_level":0.828885797,
+    "study_hours_per_week":17
+  },
+  {
+    "student_id":"STU026",
+    "name":"Student 26",
+    "grade_level":10,
+    "base_ability":75.3566885727,
+    "learning_rate":0.6154698647,
+    "engagement_level":0.502826017,
+    "study_hours_per_week":6
+  },
+  {
+    "student_id":"STU027",
+    "name":"Student 27",
+    "grade_level":12,
+    "base_ability":47.9954817223,
+    "learning_rate":0.6582413897,
+    "engagement_level":0.6195741993,
+    "study_hours_per_week":16
+  },
+  {
+    "student_id":"STU028",
+    "name":"Student 28",
+    "grade_level":12,
+    "base_ability":83.3894420726,
+    "learning_rate":1.1247649218,
+    "engagement_level":0.9182961812,
+    "study_hours_per_week":27
+  },
+  {
+    "student_id":"STU029",
+    "name":"Student 29",
+    "grade_level":10,
+    "base_ability":65.3606718033,
+    "learning_rate":0.6650778868,
+    "engagement_level":0.4595546138,
+    "study_hours_per_week":29
+  },
+  {
+    "student_id":"STU030",
+    "name":"Student 30",
+    "grade_level":11,
+    "base_ability":80.0968825416,
+    "learning_rate":1.7270221489,
+    "engagement_level":0.9025114083,
+    "study_hours_per_week":10
+  },
+  {
+    "student_id":"STU031",
+    "name":"Student 31",
+    "grade_level":12,
+    "base_ability":30.1723592865,
+    "learning_rate":0.8331617157,
+    "engagement_level":0.3839057571,
+    "study_hours_per_week":28
+  },
+  {
+    "student_id":"STU032",
+    "name":"Student 32",
+    "grade_level":12,
+    "base_ability":75.1827691583,
+    "learning_rate":1.9143645559,
+    "engagement_level":0.5262420524,
+    "study_hours_per_week":28
+  },
+  {
+    "student_id":"STU033",
+    "name":"Student 33",
+    "grade_level":10,
+    "base_ability":55.854147873,
+    "learning_rate":1.9576731241,
+    "engagement_level":0.9737131065,
+    "study_hours_per_week":11
+  },
+  {
+    "student_id":"STU034",
+    "name":"Student 34",
+    "grade_level":9,
+    "base_ability":91.0593810799,
+    "learning_rate":1.2458727588,
+    "engagement_level":0.5106148169,
+    "study_hours_per_week":28
+  },
+  {
+    "student_id":"STU035",
+    "name":"Student 35",
+    "grade_level":9,
+    "base_ability":71.5352152382,
+    "learning_rate":1.2540185348,
+    "engagement_level":0.3360351259,
+    "study_hours_per_week":5
+  },
+  {
+    "student_id":"STU036",
+    "name":"Student 36",
+    "grade_level":9,
+    "base_ability":63.5108607918,
+    "learning_rate":1.4515270171,
+    "engagement_level":0.7764938161,
+    "study_hours_per_week":16
+  },
+  {
+    "student_id":"STU037",
+    "name":"Student 37",
+    "grade_level":12,
+    "base_ability":99.4755214589,
+    "learning_rate":1.3890450858,
+    "engagement_level":0.3565973284,
+    "study_hours_per_week":21
+  },
+  {
+    "student_id":"STU038",
+    "name":"Student 38",
+    "grade_level":12,
+    "base_ability":40.901331721,
+    "learning_rate":1.5923245229,
+    "engagement_level":0.5574481929,
+    "study_hours_per_week":6
+  },
+  {
+    "student_id":"STU039",
+    "name":"Student 39",
+    "grade_level":12,
+    "base_ability":78.802856407,
+    "learning_rate":0.6354346551,
+    "engagement_level":0.8847117469,
+    "study_hours_per_week":10
+  },
+  {
+    "student_id":"STU040",
+    "name":"Student 40",
+    "grade_level":12,
+    "base_ability":102.8568343871,
+    "learning_rate":1.5437192102,
+    "engagement_level":0.9008511634,
+    "study_hours_per_week":8
+  },
+  {
+    "student_id":"STU041",
+    "name":"Student 41",
+    "grade_level":12,
+    "base_ability":70.1371651861,
+    "learning_rate":0.8397436628,
+    "engagement_level":0.7516209533,
+    "study_hours_per_week":13
+  },
+  {
+    "student_id":"STU042",
+    "name":"Student 42",
+    "grade_level":10,
+    "base_ability":64.5169105475,
+    "learning_rate":1.5364066072,
+    "engagement_level":0.5707147424,
+    "study_hours_per_week":12
+  },
+  {
+    "student_id":"STU043",
+    "name":"Student 43",
+    "grade_level":10,
+    "base_ability":64.1760340154,
+    "learning_rate":0.6702102819,
+    "engagement_level":0.9472855328,
+    "study_hours_per_week":14
+  },
+  {
+    "student_id":"STU044",
+    "name":"Student 44",
+    "grade_level":10,
+    "base_ability":56.7173143926,
+    "learning_rate":0.8869124416,
+    "engagement_level":0.7619888322,
+    "study_hours_per_week":20
+  },
+  {
+    "student_id":"STU045",
+    "name":"Student 45",
+    "grade_level":12,
+    "base_ability":90.4582978663,
+    "learning_rate":0.8627784364,
+    "engagement_level":0.3651719375,
+    "study_hours_per_week":9
+  },
+  {
+    "student_id":"STU046",
+    "name":"Student 46",
+    "grade_level":9,
+    "base_ability":108.087440744,
+    "learning_rate":1.8506270857,
+    "engagement_level":0.7431710201,
+    "study_hours_per_week":13
+  },
+  {
+    "student_id":"STU047",
+    "name":"Student 47",
+    "grade_level":12,
+    "base_ability":89.490952214,
+    "learning_rate":1.8456653899,
+    "engagement_level":0.920960497,
+    "study_hours_per_week":5
+  },
+  {
+    "student_id":"STU048",
+    "name":"Student 48",
+    "grade_level":12,
+    "base_ability":56.9928076593,
+    "learning_rate":1.4630474692,
+    "engagement_level":0.3588979755,
+    "study_hours_per_week":8
+  },
+  {
+    "student_id":"STU049",
+    "name":"Student 49",
+    "grade_level":11,
+    "base_ability":73.3943240425,
+    "learning_rate":0.5137955774,
+    "engagement_level":0.37103008,
+    "study_hours_per_week":29
+  },
+  {
+    "student_id":"STU050",
+    "name":"Student 50",
+    "grade_level":10,
+    "base_ability":82.7110214886,
+    "learning_rate":0.5075923758,
+    "engagement_level":0.412565636,
+    "study_hours_per_week":6
+  },
+  {
+    "student_id":"STU051",
+    "name":"Student 51",
+    "grade_level":9,
+    "base_ability":85.7402108848,
+    "learning_rate":0.8364039642,
+    "engagement_level":0.7985254549,
+    "study_hours_per_week":18
+  },
+  {
+    "student_id":"STU052",
+    "name":"Student 52",
+    "grade_level":12,
+    "base_ability":89.8765849227,
+    "learning_rate":0.9880995472,
+    "engagement_level":0.8225439836,
+    "study_hours_per_week":12
+  },
+  {
+    "student_id":"STU053",
+    "name":"Student 53",
+    "grade_level":11,
+    "base_ability":76.3672936608,
+    "learning_rate":1.352462905,
+    "engagement_level":0.3655723375,
+    "study_hours_per_week":26
+  },
+  {
+    "student_id":"STU054",
+    "name":"Student 54",
+    "grade_level":10,
+    "base_ability":84.1080337744,
+    "learning_rate":0.8978035515,
+    "engagement_level":0.4707927504,
+    "study_hours_per_week":10
+  },
+  {
+    "student_id":"STU055",
+    "name":"Student 55",
+    "grade_level":10,
+    "base_ability":83.1801032229,
+    "learning_rate":1.446707939,
+    "engagement_level":0.8563679125,
+    "study_hours_per_week":5
+  },
+  {
+    "student_id":"STU056",
+    "name":"Student 56",
+    "grade_level":9,
+    "base_ability":66.4060823771,
+    "learning_rate":1.3653558269,
+    "engagement_level":0.6447623857,
+    "study_hours_per_week":20
+  },
+  {
+    "student_id":"STU057",
+    "name":"Student 57",
+    "grade_level":9,
+    "base_ability":53.9366125291,
+    "learning_rate":1.9106878765,
+    "engagement_level":0.9677500039,
+    "study_hours_per_week":10
+  },
+  {
+    "student_id":"STU058",
+    "name":"Student 58",
+    "grade_level":12,
+    "base_ability":77.2370862286,
+    "learning_rate":1.0552380504,
+    "engagement_level":0.3108196316,
+    "study_hours_per_week":21
+  },
+  {
+    "student_id":"STU059",
+    "name":"Student 59",
+    "grade_level":9,
+    "base_ability":101.7832931834,
+    "learning_rate":1.9704973756,
+    "engagement_level":0.3527423792,
+    "study_hours_per_week":25
+  },
+  {
+    "student_id":"STU060",
+    "name":"Student 60",
+    "grade_level":11,
+    "base_ability":93.1980513321,
+    "learning_rate":0.7863665467,
+    "engagement_level":0.4879323998,
+    "study_hours_per_week":22
+  },
+  {
+    "student_id":"STU061",
+    "name":"Student 61",
+    "grade_level":12,
+    "base_ability":80.6516386055,
+    "learning_rate":1.544044695,
+    "engagement_level":0.6990428191,
+    "study_hours_per_week":22
+  },
+  {
+    "student_id":"STU062",
+    "name":"Student 62",
+    "grade_level":10,
+    "base_ability":71.3871830733,
+    "learning_rate":1.42251084,
+    "engagement_level":0.9930376951,
+    "study_hours_per_week":14
+  },
+  {
+    "student_id":"STU063",
+    "name":"Student 63",
+    "grade_level":12,
+    "base_ability":75.3668104052,
+    "learning_rate":1.5455236115,
+    "engagement_level":0.7917388588,
+    "study_hours_per_week":11
+  },
+  {
+    "student_id":"STU064",
+    "name":"Student 64",
+    "grade_level":11,
+    "base_ability":78.4117678955,
+    "learning_rate":0.9403877664,
+    "engagement_level":0.8665528088,
+    "study_hours_per_week":22
+  },
+  {
+    "student_id":"STU065",
+    "name":"Student 65",
+    "grade_level":12,
+    "base_ability":77.7257152946,
+    "learning_rate":1.6974427685,
+    "engagement_level":0.7549747515,
+    "study_hours_per_week":18
+  },
+  {
+    "student_id":"STU066",
+    "name":"Student 66",
+    "grade_level":11,
+    "base_ability":127.7909723598,
+    "learning_rate":1.6936890042,
+    "engagement_level":0.9230037393,
+    "study_hours_per_week":19
+  },
+  {
+    "student_id":"STU067",
+    "name":"Student 67",
+    "grade_level":9,
+    "base_ability":58.4076217819,
+    "learning_rate":1.3674202115,
+    "engagement_level":0.3251595917,
+    "study_hours_per_week":26
+  },
+  {
+    "student_id":"STU068",
+    "name":"Student 68",
+    "grade_level":12,
+    "base_ability":66.4477208989,
+    "learning_rate":1.3862498909,
+    "engagement_level":0.321350175,
+    "study_hours_per_week":14
+  },
+  {
+    "student_id":"STU069",
+    "name":"Student 69",
+    "grade_level":9,
+    "base_ability":62.9210220132,
+    "learning_rate":0.690590769,
+    "engagement_level":0.665570282,
+    "study_hours_per_week":16
+  },
+  {
+    "student_id":"STU070",
+    "name":"Student 70",
+    "grade_level":10,
+    "base_ability":86.3342589545,
+    "learning_rate":1.9478777456,
+    "engagement_level":0.6200856131,
+    "study_hours_per_week":17
+  },
+  {
+    "student_id":"STU071",
+    "name":"Student 71",
+    "grade_level":12,
+    "base_ability":64.3821766136,
+    "learning_rate":1.5492683162,
+    "engagement_level":0.3968471647,
+    "study_hours_per_week":17
+  },
+  {
+    "student_id":"STU072",
+    "name":"Student 72",
+    "grade_level":11,
+    "base_ability":50.631758303,
+    "learning_rate":1.9543053007,
+    "engagement_level":0.8002165729,
+    "study_hours_per_week":21
+  },
+  {
+    "student_id":"STU073",
+    "name":"Student 73",
+    "grade_level":10,
+    "base_ability":50.381285505,
+    "learning_rate":1.6160639645,
+    "engagement_level":0.4756023691,
+    "study_hours_per_week":25
+  },
+  {
+    "student_id":"STU074",
+    "name":"Student 74",
+    "grade_level":12,
+    "base_ability":40.1410067563,
+    "learning_rate":0.6213094499,
+    "engagement_level":0.5998201325,
+    "study_hours_per_week":25
+  },
+  {
+    "student_id":"STU075",
+    "name":"Student 75",
+    "grade_level":9,
+    "base_ability":46.7675698026,
+    "learning_rate":0.6408099351,
+    "engagement_level":0.428006198,
+    "study_hours_per_week":25
+  },
+  {
+    "student_id":"STU076",
+    "name":"Student 76",
+    "grade_level":12,
+    "base_ability":64.8530640384,
+    "learning_rate":1.4574058908,
+    "engagement_level":0.6616873802,
+    "study_hours_per_week":9
+  },
+  {
+    "student_id":"STU077",
+    "name":"Student 77",
+    "grade_level":9,
+    "base_ability":50.097523508,
+    "learning_rate":0.8715964843,
+    "engagement_level":0.5491808751,
+    "study_hours_per_week":26
+  },
+  {
+    "student_id":"STU078",
+    "name":"Student 78",
+    "grade_level":9,
+    "base_ability":97.6557369663,
+    "learning_rate":0.5215902329,
+    "engagement_level":0.3812508484,
+    "study_hours_per_week":19
+  },
+  {
+    "student_id":"STU079",
+    "name":"Student 79",
+    "grade_level":11,
+    "base_ability":66.4391205819,
+    "learning_rate":0.646751241,
+    "engagement_level":0.6441311126,
+    "study_hours_per_week":8
+  },
+  {
+    "student_id":"STU080",
+    "name":"Student 80",
+    "grade_level":11,
+    "base_ability":98.0800852071,
+    "learning_rate":0.7598028049,
+    "engagement_level":0.6036961545,
+    "study_hours_per_week":14
+  },
+  {
+    "student_id":"STU081",
+    "name":"Student 81",
+    "grade_level":12,
+    "base_ability":70.0272041679,
+    "learning_rate":1.3090661726,
+    "engagement_level":0.7787746386,
+    "study_hours_per_week":28
+  },
+  {
+    "student_id":"STU082",
+    "name":"Student 82",
+    "grade_level":12,
+    "base_ability":81.3390292269,
+    "learning_rate":1.9158374068,
+    "engagement_level":0.960976118,
+    "study_hours_per_week":24
+  },
+  {
+    "student_id":"STU083",
+    "name":"Student 83",
+    "grade_level":11,
+    "base_ability":41.5393452627,
+    "learning_rate":1.4649323277,
+    "engagement_level":0.6207770233,
+    "study_hours_per_week":15
+  },
+  {
+    "student_id":"STU084",
+    "name":"Student 84",
+    "grade_level":9,
+    "base_ability":89.2081114252,
+    "learning_rate":1.9121972132,
+    "engagement_level":0.5702718465,
+    "study_hours_per_week":12
+  },
+  {
+    "student_id":"STU085",
+    "name":"Student 85",
+    "grade_level":10,
+    "base_ability":62.7035085092,
+    "learning_rate":0.9784634454,
+    "engagement_level":0.8914127177,
+    "study_hours_per_week":6
+  },
+  {
+    "student_id":"STU086",
+    "name":"Student 86",
+    "grade_level":10,
+    "base_ability":73.1139739193,
+    "learning_rate":0.8910417924,
+    "engagement_level":0.647226218,
+    "study_hours_per_week":25
+  },
+  {
+    "student_id":"STU087",
+    "name":"Student 87",
+    "grade_level":9,
+    "base_ability":77.9415326748,
+    "learning_rate":0.55877949,
+    "engagement_level":0.5925622222,
+    "study_hours_per_week":29
+  },
+  {
+    "student_id":"STU088",
+    "name":"Student 88",
+    "grade_level":12,
+    "base_ability":67.2416239341,
+    "learning_rate":1.3219578249,
+    "engagement_level":0.5964296596,
+    "study_hours_per_week":7
+  },
+  {
+    "student_id":"STU089",
+    "name":"Student 89",
+    "grade_level":12,
+    "base_ability":69.6864760905,
+    "learning_rate":1.0580271287,
+    "engagement_level":0.8434890725,
+    "study_hours_per_week":27
+  },
+  {
+    "student_id":"STU090",
+    "name":"Student 90",
+    "grade_level":9,
+    "base_ability":71.7599107496,
+    "learning_rate":1.8961359884,
+    "engagement_level":0.9008889263,
+    "study_hours_per_week":27
+  },
+  {
+    "student_id":"STU091",
+    "name":"Student 91",
+    "grade_level":10,
+    "base_ability":82.3812452348,
+    "learning_rate":0.6546858033,
+    "engagement_level":0.9317870347,
+    "study_hours_per_week":24
+  },
+  {
+    "student_id":"STU092",
+    "name":"Student 92",
+    "grade_level":11,
+    "base_ability":82.20264454,
+    "learning_rate":1.7396861992,
+    "engagement_level":0.5240347207,
+    "study_hours_per_week":23
+  },
+  {
+    "student_id":"STU093",
+    "name":"Student 93",
+    "grade_level":11,
+    "base_ability":74.8624952873,
+    "learning_rate":1.9259107204,
+    "engagement_level":0.7014065217,
+    "study_hours_per_week":20
+  },
+  {
+    "student_id":"STU094",
+    "name":"Student 94",
+    "grade_level":9,
+    "base_ability":68.0478541845,
+    "learning_rate":1.172668283,
+    "engagement_level":0.5052475402,
+    "study_hours_per_week":24
+  },
+  {
+    "student_id":"STU095",
+    "name":"Student 95",
+    "grade_level":9,
+    "base_ability":87.3716631025,
+    "learning_rate":1.6873685656,
+    "engagement_level":0.8527327,
+    "study_hours_per_week":25
+  },
+  {
+    "student_id":"STU096",
+    "name":"Student 96",
+    "grade_level":11,
+    "base_ability":81.8749404094,
+    "learning_rate":1.2416304571,
+    "engagement_level":0.340291132,
+    "study_hours_per_week":9
+  },
+  {
+    "student_id":"STU097",
+    "name":"Student 97",
+    "grade_level":9,
+    "base_ability":74.8677747456,
+    "learning_rate":1.5587472258,
+    "engagement_level":0.9780563608,
+    "study_hours_per_week":14
+  },
+  {
+    "student_id":"STU098",
+    "name":"Student 98",
+    "grade_level":10,
+    "base_ability":95.129398745,
+    "learning_rate":1.7554458114,
+    "engagement_level":0.9068080937,
+    "study_hours_per_week":11
+  },
+  {
+    "student_id":"STU099",
+    "name":"Student 99",
+    "grade_level":10,
+    "base_ability":48.4080760505,
+    "learning_rate":1.0949774029,
+    "engagement_level":0.9243278361,
+    "study_hours_per_week":9
+  },
+  {
+    "student_id":"STU100",
+    "name":"Student 100",
+    "grade_level":12,
+    "base_ability":64.2476871071,
+    "learning_rate":1.269989253,
+    "engagement_level":0.4632596507,
+    "study_hours_per_week":20
+  }
+]

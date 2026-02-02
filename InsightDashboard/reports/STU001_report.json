@@ -1,0 +1,89 @@
+{
+  "student_id": "STU001",
+  "generated_at": "2026-02-02T14:42:08.919148",
+  "performance_summary": {
+    "student_id": "STU001",
+    "total_assessments": 20,
+    "average_score": 85.49950000000001,
+    "median_score": 83.92,
+    "score_std": 7.457586370514539,
+    "best_subject": "Science",
+    "weakest_subject": "English",
+    "total_study_time": "8999",
+    "completion_rate": 86.95652173913044,
+    "improvement_trend": "Stable"
+  },
+  "weak_topics": [],
+  "strong_topics": [
+    {
+      "subject": "Science",
+      "topic": "Biology",
+      "avg_score": 93.62,
+      "attempts": 1
+    },
+    {
+      "subject": "Science",
+      "topic": "Chemistry",
+      "avg_score": 92.055,
+      "attempts": 2
+    },
+    {
+      "subject": "History",
+      "topic": "Civics",
+      "avg_score": 90.67,
+      "attempts": 1
+    },
+    {
+      "subject": "Computer Science",
+      "topic": "Data Structures",
+      "avg_score": 89.78666666666668,
+      "attempts": 3
+    },
+    {
+      "subject": "Mathematics",
+      "topic": "Geometry",
+      "avg_score": 89.17500000000001,
+      "attempts": 2
+    },
+    {
+      "subject": "Science",
+      "topic": "Environmental Science",
+      "avg_score": 86.875,
+      "attempts": 2
+    }
+  ],
+  "subject_predictions": {
+    "Mathematics": {
+      "prediction": 84.41,
+      "confidence": "Medium",
+      "recent_trend": "Strong Improvement"
+    },
+    "Computer Science": {
+      "prediction": 86.0,
+      "confidence": "Medium",
+      "recent_trend": "Needs Attention"
+    },
+    "Science": {
+      "prediction": 89.06,
+      "confidence": "Medium",
+      "recent_trend": "Needs Attention"
+    },
+    "History": {
+      "prediction": 86.79,
+      "confidence": "Medium",
+      "recent_trend": "Insufficient Data"
+    },
+    "English": {
+      "prediction": null,
+      "confidence": "Low",
+      "message": "Insufficient data"
+    }
+  },
+  "recommendations": [],
+  "visualizations": {
+    "progress": "visualizations\\STU001_progress.png",
+    "subjects": "visualizations\\STU001_subjects.png",
+    "heatmap": "visualizations\\STU001_heatmap.png",
+    "study_patterns": "visualizations\\STU001_study_patterns.png"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "total_students": 100,
+  "total_assessments": 2513,
+  "class_average": 76.74048149621966,
+  "top_performers": [
+    {
+      "student_id": "STU023",
+      "average_score": 100.0
+    },
+    {
+      "student_id": "STU046",
+      "average_score": 100.0
+    },
+    {
+      "student_id": "STU066",
+      "average_score": 100.0
+    },
+    {
+      "student_id": "STU040",
+      "average_score": 99.94777777777779
+    },
+    {
+      "student_id": "STU059",
+      "average_score": 99.81466666666667
+    }
+  ],
+  "struggling_students": [
+    {
+      "student_id": "STU031",
+      "average_score": 34.7662962962963
+    },
+    {
+      "student_id": "STU074",
+      "average_score": 42.15793103448276
+    },
+    {
+      "student_id": "STU038",
+      "average_score": 47.416666666666664
+    },
+    {
+      "student_id": "STU083",
+      "average_score": 49.23285714285715
+    },
+    {
+      "student_id": "STU075",
+      "average_score": 49.30346153846154
+    }
+  ],
+  "subject_difficulty": {
+    "History": {
+      "mean": 75.71401941747573,
+      "std": 16.04453183817581,
+      "count": 515
+    },
+    "Computer Science": {
+      "mean": 76.25094302554028,
+      "std": 16.246956126023132,
+      "count": 509
+    },
+    "Science": {
+      "mean": 76.3923819301848,
+      "std": 16.050450478721114,
+      "count": 487
+    },
+    "English": {
+      "mean": 76.76090361445783,
+      "std": 15.43912020755871,
+      "count": 498
+    },
+    "Mathematics": {
+      "mean": 78.59992063492064,
+      "std": 15.35848536663391,
+      "count": 504
+    }
+  },
+  "engagement_metrics": {
+    "total_sessions": 22217,
+    "completion_rate": 84.91,
+    "avg_session_duration": 26.01
+  }
+}
